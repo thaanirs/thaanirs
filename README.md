@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br>
 <!-- <hr> -->
 
-- 🔭 I’m currently working on **Machine learning **
+- 🔭 I’m currently working on **Machine learning**
 
 - 🌱 I’m currently learning **Machine and Deep learning**
 
